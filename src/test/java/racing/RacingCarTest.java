@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Scanner;
 
-public class racingCarTest {
+public class RacingCarTest {
     @Test
     void racingCarTest () {
         Scanner scan = new Scanner(System.in);
@@ -15,5 +15,6 @@ public class racingCarTest {
 
         System.out.println("");
         System.out.println("실행결과");
+        
     }
 }
